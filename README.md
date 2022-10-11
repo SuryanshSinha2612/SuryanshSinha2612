@@ -1,4 +1,13 @@
 ### Hi there 👋
+-----
+
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
+
+-----
 
 [Suryansh Sinha](suryanshrajeevq1v.whjr.site) is a man of many sides. He's a great mix of support, technical, analytical, and banter.
 * He has skills on Java, Python, JS and currently learning HTML and C.
