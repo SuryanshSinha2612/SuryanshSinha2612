@@ -23,7 +23,6 @@
 *   In an open source python chat-ops bot framework-[opsdroid](https://github.com/opsdroid/).
 -----
 ### The usual outputs apply:
-* 🧡 [Personal Website](https://suryanshrajeevq1v.whjr.site/)
 * 🧛‍♀️ [Another GitHub Account](https://github.com/suryanshsinha?tab=repositories)
 * 💌 [LinkedIn Profile](https://www.linkedin.com/in/suryansh-sinha-40273a240/)
 * 🎵 [last.fm](https://last.fm/user/takealeft)
