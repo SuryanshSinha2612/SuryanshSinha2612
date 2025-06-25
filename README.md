@@ -27,7 +27,7 @@
 * 🧛‍♀️ [Another GitHub Account](https://github.com/suryanshsinha?tab=repositories)
 * 💌 [LinkedIn Profile](https://www.linkedin.com/in/suryansh-sinha-40273a240/)
 * 🎵 [last.fm](https://last.fm/user/takealeft)
-* 🖥️ And this here GitHub
+
 -----
 ### My Holopin Board: 
 [![@suryanshsinha2612's Holopin board](https://holopin.me/suryanshsinha2612)](https://holopin.io/@suryanshsinha2612)
